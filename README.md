@@ -212,3 +212,21 @@ This repository contains the **project documentation and implementation blueprin
 ## Source
 
 Requirements are based on the supplied **Movie Ticket Booking Management Application** project brief from the National Internship Program (NIP) / Pega Academy, 2026.
+
+---
+
+## 📽️ Application Demo & Walkthrough
+
+- **Project:** CineWave – Movie Ticket Booking Application
+- **Developer:** Gandla Mohammad Idris
+- **Platform:** Pega App Studio
+- **Video Link:** [Watch Full Demo on YouTube](https://youtu.be/Q36GJDnkRlM?si=nu7oFyzDEyUCv2Uc)
+
+### Key Stages Demonstrated:
+1. **Event Setup:** Inputting movie title (*Pushpa*), date, showtime, and seat count.
+2. **Availability & Pricing:** Verifying seat quota and automated price calculation ($40.00).
+3. **Approval:** Review and confirmation by operator/manager.
+4. **Booking Execution:** Automated seat allocation (*A12, A13*) and ticket generation.
+5. **Correspondence:** Automated confirmation email dispatch.
+
+---
